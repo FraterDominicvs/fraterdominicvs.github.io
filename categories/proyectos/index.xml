@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proyectos on Joel Aguilozi | Escritor - Productor</title>
+    <link>https://joelaguilozi.com.ar/categories/proyectos/</link>
+    <description>Recent content in Proyectos on Joel Aguilozi | Escritor - Productor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://joelaguilozi.com.ar/categories/proyectos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HELPFEX</title>
+      <link>https://joelaguilozi.com.ar/blog/p02/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://joelaguilozi.com.ar/blog/p02/</guid>
+      <description>Nació con la idea de ser una red social seria y diferente, ¡Y lo es!</description>
+    </item>
+    
+    <item>
+      <title>Tiempo Gamer</title>
+      <link>https://joelaguilozi.com.ar/blog/p01/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://joelaguilozi.com.ar/blog/p01/</guid>
+      <description>Reviews de juegos y tecnología
+Visitar el sitio https://tiempogamer.com/
+¿QUÉ ES TIEMPO GAMER?</description>
+    </item>
+    
+  </channel>
+</rss>
