@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on Joel Aguilozi</title>
+    <link>https://www.joelaguilozi.com.ar/</link>
+    <description>Recent content in Home on Joel Aguilozi</description>
+    <image>
+      <title>Joel Aguilozi</title>
+      <url>https://www.joelaguilozi.com.ar/images/author_quad.png</url>
+      <link>https://www.joelaguilozi.com.ar/images/author_quad.png</link>
+    </image>
+    <generator>Hugo -- 0.125.7</generator>
+    <language>en</language>
+    <copyright>2021 - 2024 Joel Aguilozi. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.joelaguilozi.com.ar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helpfex</title>
+      <link>https://www.joelaguilozi.com.ar/projects/helpfex/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/projects/helpfex/</guid>
+      <description>It was born with the idea of being a serious and different social network, and it is!.</description>
+    </item>
+    <item>
+      <title>Tiempo Gamer</title>
+      <link>https://www.joelaguilozi.com.ar/projects/tiempo-gamer/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/projects/tiempo-gamer/</guid>
+      <description>Tiempo Gamer Media website. Editor Chief. Gaming and technology reviews.</description>
+    </item>
+    <item>
+      <title>Stories</title>
+      <link>https://www.joelaguilozi.com.ar/books/cuentos/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/books/cuentos/</guid>
+      <description>Some stories by Joel Aguilozzi available to read online.</description>
+    </item>
+    <item>
+      <title>Five Thousand Days and One Night</title>
+      <link>https://www.joelaguilozi.com.ar/books/5000-d/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/books/5000-d/</guid>
+      <description>ISBN	1370650345, 9781370650347</description>
+    </item>
+    <item>
+      <title>Project Kabbalah</title>
+      <link>https://www.joelaguilozi.com.ar/books/project-kabbalah/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/books/project-kabbalah/</guid>
+      <description>ISBN	9781386314745</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>https://www.joelaguilozi.com.ar/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/about/</guid>
+      <description>I’m Joel Aguilozi, a Science Fiction writer eager to expand my horizons and venture into the world of production and artistic direction. As a passionate art enthusiast, I have worked as a chronicler and photographer at music concerts, and I am very dedicated to video games as a fan, gamer, tester, and analyst.
+I have always enjoyed creating things, and to my writing production, I add experiences in programming and 3D design.</description>
+    </item>
+    <item>
+      <title>Library</title>
+      <link>https://www.joelaguilozi.com.ar/library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/library/</guid>
+      <description>Reading Software Engineering at Google: Lessons Learned from Programming Over Time by Titus Winters, Tom Manshreck, Hyrum Wright The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by Gene Kim, Kevin Behr, George Spafford Mastering Vim Quickly: From WTF to OMG in no time by Jovica Ilic Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides La semana laboral de 4 horas by Timothy Ferriss Read The Go Programming Language by Alan A.</description>
+    </item>
+  </channel>
+</rss>

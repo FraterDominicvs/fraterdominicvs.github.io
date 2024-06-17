@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on Joel Aguilozi</title>
+    <link>https://www.joelaguilozi.com.ar/es/</link>
+    <description>Recent content in Home on Joel Aguilozi</description>
+    <image>
+      <title>Joel Aguilozi</title>
+      <url>https://www.joelaguilozi.com.ar/images/author_quad.png</url>
+      <link>https://www.joelaguilozi.com.ar/images/author_quad.png</link>
+    </image>
+    <generator>Hugo -- 0.125.7</generator>
+    <language>es</language>
+    <copyright>2021 - 2024 Joel Aguilozi. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.joelaguilozi.com.ar/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helpfex</title>
+      <link>https://www.joelaguilozi.com.ar/es/projects/helpfex/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/es/projects/helpfex/</guid>
+      <description>Nació con la idea de ser una red social seria y diferente, ¡Y lo es!</description>
+    </item>
+    <item>
+      <title>Tiempo Gamer</title>
+      <link>https://www.joelaguilozi.com.ar/es/projects/tiempo-gamer/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/es/projects/tiempo-gamer/</guid>
+      <description>Reviews de juegos y tecnología.</description>
+    </item>
+    <item>
+      <title>Cuentos</title>
+      <link>https://www.joelaguilozi.com.ar/es/books/cuentos/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/es/books/cuentos/</guid>
+      <description>Cuentos disponibles en línea.</description>
+    </item>
+    <item>
+      <title>Cinco Mil Días y Una Noche</title>
+      <link>https://www.joelaguilozi.com.ar/es/books/5000-d/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/es/books/5000-d/</guid>
+      <description>ISBN	1370650345, 9781370650347</description>
+    </item>
+    <item>
+      <title>Project Kabbalah</title>
+      <link>https://www.joelaguilozi.com.ar/es/books/project-kabbalah/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/es/books/project-kabbalah/</guid>
+      <description>ISBN	9781386314745</description>
+    </item>
+    <item>
+      <title>Biblioteca</title>
+      <link>https://www.joelaguilozi.com.ar/es/library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/es/library/</guid>
+      <description>Leyendo Software Engineering at Google: Lessons Learned from Programming Over Time de Titus Winters, Tom Manshreck, Hyrum Wright The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win de Gene Kim, Kevin Behr, George Spafford Mastering Vim Quickly: From WTF to OMG in no time de Jovica Ilic Design Patterns: Elements of Reusable Object-Oriented Software de Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides La semana laboral de 4 horas de Timothy Ferriss Leídos The Go Programming Language de Alan A.</description>
+    </item>
+    <item>
+      <title>Sobre mí</title>
+      <link>https://www.joelaguilozi.com.ar/es/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/es/about/</guid>
+      <description>Soy Joel Aguilozi, escritor de Ciencia Ficción con ansias de expandir mis horizontes y aventurarme en el mundo de la producción y dirección artística. Apasionado del Arte he sido cronista y fotógrafo en conciertos de música y muy dedicado a los videojuegos, como fan, gamer, tester y analista.
+Desde siempre me ha gustado crear cosas, a la producción como escritor se suman experiencias en programación y diseño 3D. Desde que terminé los estudios que he trabajado en distintos sectores de TI, como la moderación y análisis, testeando juegos multiplataforma e incursionando en producción.</description>
+    </item>
+  </channel>
+</rss>

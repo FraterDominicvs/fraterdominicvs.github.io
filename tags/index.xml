@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tags on Joel Aguilozi</title>
+    <link>https://www.joelaguilozi.com.ar/tags/</link>
+    <description>Recent content in tags on Joel Aguilozi</description>
+    <image>
+      <title>Joel Aguilozi</title>
+      <url>https://www.joelaguilozi.com.ar/images/author_quad.png</url>
+      <link>https://www.joelaguilozi.com.ar/images/author_quad.png</link>
+    </image>
+    <generator>Hugo -- 0.125.7</generator>
+    <language>en</language>
+    <copyright>2021 - 2024 Joel Aguilozi. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.joelaguilozi.com.ar/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>community</title>
+      <link>https://www.joelaguilozi.com.ar/tags/community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/tags/community/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>games</title>
+      <link>https://www.joelaguilozi.com.ar/tags/games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/tags/games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>media</title>
+      <link>https://www.joelaguilozi.com.ar/tags/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/tags/media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>social</title>
+      <link>https://www.joelaguilozi.com.ar/tags/social/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/tags/social/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>stories</title>
+      <link>https://www.joelaguilozi.com.ar/tags/stories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/tags/stories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>web</title>
+      <link>https://www.joelaguilozi.com.ar/tags/web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>books</title>
+      <link>https://www.joelaguilozi.com.ar/tags/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/tags/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>https://www.joelaguilozi.com.ar/tags/health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/tags/health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webs</title>
+      <link>https://www.joelaguilozi.com.ar/tags/webs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/tags/webs/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
