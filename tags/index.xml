@@ -12,8 +12,15 @@
     <generator>Hugo -- 0.128.1</generator>
     <language>en</language>
     <copyright>2021 - 2024 Joel Aguilozi. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.joelaguilozi.com.ar/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>stories</title>
+      <link>https://www.joelaguilozi.com.ar/tags/stories/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/tags/stories/</guid>
+      <description></description>
+    </item>
     <item>
       <title>community</title>
       <link>https://www.joelaguilozi.com.ar/tags/community/</link>
@@ -40,13 +47,6 @@
       <link>https://www.joelaguilozi.com.ar/tags/social/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://www.joelaguilozi.com.ar/tags/social/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>stories</title>
-      <link>https://www.joelaguilozi.com.ar/tags/stories/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.joelaguilozi.com.ar/tags/stories/</guid>
       <description></description>
     </item>
     <item>

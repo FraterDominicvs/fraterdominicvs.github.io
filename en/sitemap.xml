@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://www.joelaguilozi.com.ar/books/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -41,14 +41,8 @@
                 href="https://www.joelaguilozi.com.ar/books/"
                 />
   </url><url>
-    <loc>https://www.joelaguilozi.com.ar/tags/community/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.joelaguilozi.com.ar/tags/games/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.joelaguilozi.com.ar/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -58,6 +52,93 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.joelaguilozi.com.ar/"
+                />
+  </url><url>
+    <loc>https://www.joelaguilozi.com.ar/tags/stories/</loc>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joelaguilozi.com.ar/books/cuentos/</loc>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.joelaguilozi.com.ar/es/books/cuentos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.joelaguilozi.com.ar/books/cuentos/"
+                />
+  </url><url>
+    <loc>https://www.joelaguilozi.com.ar/tags/</loc>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.joelaguilozi.com.ar/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.joelaguilozi.com.ar/tags/"
+                />
+  </url><url>
+    <loc>https://www.joelaguilozi.com.ar/tags/community/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joelaguilozi.com.ar/books/01/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.joelaguilozi.com.ar/es/books/01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.joelaguilozi.com.ar/books/01/"
+                />
+  </url><url>
+    <loc>https://www.joelaguilozi.com.ar/tags/games/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.joelaguilozi.com.ar/books/07/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.joelaguilozi.com.ar/es/books/07/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.joelaguilozi.com.ar/books/07/"
+                />
+  </url><url>
+    <loc>https://www.joelaguilozi.com.ar/books/05/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.joelaguilozi.com.ar/es/books/05/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.joelaguilozi.com.ar/books/05/"
+                />
+  </url><url>
+    <loc>https://www.joelaguilozi.com.ar/books/06/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.joelaguilozi.com.ar/es/books/06/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.joelaguilozi.com.ar/books/06/"
                 />
   </url><url>
     <loc>https://www.joelaguilozi.com.ar/tags/media/</loc>
@@ -86,6 +167,32 @@
                 href="https://www.joelaguilozi.com.ar/projects/"
                 />
   </url><url>
+    <loc>https://www.joelaguilozi.com.ar/books/10/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.joelaguilozi.com.ar/es/books/10/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.joelaguilozi.com.ar/books/10/"
+                />
+  </url><url>
+    <loc>https://www.joelaguilozi.com.ar/books/09/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.joelaguilozi.com.ar/es/books/09/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.joelaguilozi.com.ar/books/09/"
+                />
+  </url><url>
     <loc>https://www.joelaguilozi.com.ar/tags/social/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -99,33 +206,56 @@
                 href="https://www.joelaguilozi.com.ar/tags/social/"
                 />
   </url><url>
-    <loc>https://www.joelaguilozi.com.ar/tags/stories/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.joelaguilozi.com.ar/books/cuentos/</loc>
+    <loc>https://www.joelaguilozi.com.ar/books/03/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.joelaguilozi.com.ar/es/books/cuentos/"
+                href="https://www.joelaguilozi.com.ar/es/books/03/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.joelaguilozi.com.ar/books/cuentos/"
+                href="https://www.joelaguilozi.com.ar/books/03/"
                 />
   </url><url>
-    <loc>https://www.joelaguilozi.com.ar/tags/</loc>
+    <loc>https://www.joelaguilozi.com.ar/books/08/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.joelaguilozi.com.ar/es/tags/"
+                href="https://www.joelaguilozi.com.ar/es/books/08/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.joelaguilozi.com.ar/tags/"
+                href="https://www.joelaguilozi.com.ar/books/08/"
+                />
+  </url><url>
+    <loc>https://www.joelaguilozi.com.ar/books/02/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.joelaguilozi.com.ar/es/books/02/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.joelaguilozi.com.ar/books/02/"
+                />
+  </url><url>
+    <loc>https://www.joelaguilozi.com.ar/books/04/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.joelaguilozi.com.ar/es/books/04/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.joelaguilozi.com.ar/books/04/"
                 />
   </url><url>
     <loc>https://www.joelaguilozi.com.ar/tags/web/</loc>

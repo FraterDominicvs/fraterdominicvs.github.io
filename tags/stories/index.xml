@@ -12,14 +12,84 @@
     <generator>Hugo -- 0.128.1</generator>
     <language>en</language>
     <copyright>2021 - 2024 Joel Aguilozi. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.joelaguilozi.com.ar/tags/stories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stories</title>
       <link>https://www.joelaguilozi.com.ar/books/cuentos/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://www.joelaguilozi.com.ar/books/cuentos/</guid>
       <description>Some stories by Joel Aguilozzi available to read online.</description>
+    </item>
+    <item>
+      <title>Four words</title>
+      <link>https://www.joelaguilozi.com.ar/books/01/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/books/01/</guid>
+      <description>Four words</description>
+    </item>
+    <item>
+      <title>Life&#39;s little things</title>
+      <link>https://www.joelaguilozi.com.ar/books/07/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/books/07/</guid>
+      <description>Life&amp;#39;s little things</description>
+    </item>
+    <item>
+      <title>Love is not a crime</title>
+      <link>https://www.joelaguilozi.com.ar/books/05/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/books/05/</guid>
+      <description>Love is not a crime</description>
+    </item>
+    <item>
+      <title>Mark&#39;s Mission</title>
+      <link>https://www.joelaguilozi.com.ar/books/06/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/books/06/</guid>
+      <description>Mark&amp;#39;s Mission</description>
+    </item>
+    <item>
+      <title>Remind yourself</title>
+      <link>https://www.joelaguilozi.com.ar/books/10/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/books/10/</guid>
+      <description>Remind yourself</description>
+    </item>
+    <item>
+      <title>Silver for Rest</title>
+      <link>https://www.joelaguilozi.com.ar/books/09/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/books/09/</guid>
+      <description>Life&amp;#39;s little things</description>
+    </item>
+    <item>
+      <title>The beginning</title>
+      <link>https://www.joelaguilozi.com.ar/books/03/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/books/03/</guid>
+      <description>The beginning</description>
+    </item>
+    <item>
+      <title>The essential is invisible to the eyes</title>
+      <link>https://www.joelaguilozi.com.ar/books/08/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/books/08/</guid>
+      <description>Life&amp;#39;s little things</description>
+    </item>
+    <item>
+      <title>The Last Consolation</title>
+      <link>https://www.joelaguilozi.com.ar/books/02/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/books/02/</guid>
+      <description>The Last Consolation</description>
+    </item>
+    <item>
+      <title>The Pharox Paradox</title>
+      <link>https://www.joelaguilozi.com.ar/books/04/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/books/04/</guid>
+      <description>The Pharox Paradox</description>
     </item>
   </channel>
 </rss>
