@@ -9,7 +9,7 @@
       <url>https://www.joelaguilozi.com.ar/images/author_quad.png</url>
       <link>https://www.joelaguilozi.com.ar/images/author_quad.png</link>
     </image>
-    <generator>Hugo -- 0.125.7</generator>
+    <generator>Hugo -- 0.128.1</generator>
     <language>es</language>
     <copyright>2021 - 2024 Joel Aguilozi. All rights reserved.</copyright>
     <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
@@ -29,11 +29,81 @@
       <description>Reviews de juegos y tecnología.</description>
     </item>
     <item>
+      <title>Amar no es un crimen</title>
+      <link>https://www.joelaguilozi.com.ar/es/books/05/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/es/books/05/</guid>
+      <description>Amar no es un crimen</description>
+    </item>
+    <item>
+      <title>Cuatro Palabras</title>
+      <link>https://www.joelaguilozi.com.ar/es/books/01/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/es/books/01/</guid>
+      <description>Cuento Cuatro Palabras</description>
+    </item>
+    <item>
       <title>Cuentos</title>
       <link>https://www.joelaguilozi.com.ar/es/books/cuentos/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://www.joelaguilozi.com.ar/es/books/cuentos/</guid>
       <description>Cuentos disponibles en línea.</description>
+    </item>
+    <item>
+      <title>El principio</title>
+      <link>https://www.joelaguilozi.com.ar/es/books/03/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/es/books/03/</guid>
+      <description>Cuento El principio</description>
+    </item>
+    <item>
+      <title>El último consuelo</title>
+      <link>https://www.joelaguilozi.com.ar/es/books/02/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/es/books/02/</guid>
+      <description>Cuento El último consuelo</description>
+    </item>
+    <item>
+      <title>La misión de Mark</title>
+      <link>https://www.joelaguilozi.com.ar/es/books/06/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/es/books/06/</guid>
+      <description>La misión de Mark</description>
+    </item>
+    <item>
+      <title>La paradoja de Pharox</title>
+      <link>https://www.joelaguilozi.com.ar/es/books/04/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/es/books/04/</guid>
+      <description>La paradoja de Pharox</description>
+    </item>
+    <item>
+      <title>Las pequeñas cosas de la vida</title>
+      <link>https://www.joelaguilozi.com.ar/es/books/07/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/es/books/07/</guid>
+      <description>Las pequeñas cosas de la vida</description>
+    </item>
+    <item>
+      <title>Lo esencial es invisible a los ojos</title>
+      <link>https://www.joelaguilozi.com.ar/es/books/08/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/es/books/08/</guid>
+      <description>Lo esencial es invisible a los ojos</description>
+    </item>
+    <item>
+      <title>Plata para el descanso</title>
+      <link>https://www.joelaguilozi.com.ar/es/books/09/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/es/books/09/</guid>
+      <description>Plata para el descanso</description>
+    </item>
+    <item>
+      <title>Recuérdate a ti mismo</title>
+      <link>https://www.joelaguilozi.com.ar/es/books/10/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.joelaguilozi.com.ar/es/books/10/</guid>
+      <description>Recuérdate a ti mismo</description>
     </item>
     <item>
       <title>Cinco Mil Días y Una Noche</title>
